@@ -1,0 +1,10 @@
+Name of employee: Shabnam, Email of employee:shabnam@mail.com, Age of employee:20, Salary of employee: 1500.0
+Name of employee: Ali, Email of employee:ali@mail.com, Age of employee:21, Salary of employee: 1600.0
+Name of employee: Leyla, Email of employee:leyla@mail.com, Age of employee:22, Salary of employee: 1700.0
+Name of employee: Murad, Email of employee:murad@mail.com, Age of employee:23, Salary of employee: 1800.0
+Name of employee: Aysel, Email of employee:aysel@mail.com, Age of employee:24, Salary of employee: 1900.0
+Name of employee: Vusal, Email of employee:vusal@mail.com, Age of employee:25, Salary of employee: 2000.0
+Name of employee: Deniz, Email of employee:deniz@mail.com, Age of employee:26, Salary of employee: 2100.0
+Name of employee: Rauf, Email of employee:rauf@mail.com, Age of employee:27, Salary of employee: 2200.0
+Name of employee: Fidan, Email of employee:fidan@mail.com, Age of employee:28, Salary of employee: 2300.0
+Name of employee: Tural, Email of employee:tural@mail.com, Age of employee:29, Salary of employee: 2400.0
